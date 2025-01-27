@@ -1,1 +1,2 @@
- service A Dev Env 
+service:
+    name: service A Dev Env
